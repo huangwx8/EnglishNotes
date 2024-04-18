@@ -1,0 +1,9 @@
+In today's world, companies often highlight that their commodities are novel in some ways. This essay delves into underlying reasons for it, and believes it is a positive trend.
+
+The most crucial reason is the social concept: Newer is better. Technology has made astonishing progress since the industrial revolution. Quality of previously hand-made clothes was improved because of the invention of steam machines, speed of transportation increased due to the invention of petrol engine, and information technology made our lives rich and colorful. Such experience instill us the belief that new products are usually better than those of old generation. Advertisers utilize this psychological phenomenon to lure the public to consume their products.
+
+Another noteworthy reason is the business competition. In traditional sectors, big companies fight fiercely against each other for the remaining market share. Take the media sector for example, several media giants such as Disney, HBO and Netflix, produce massive amount of TV shows and movies annually. It is impossible for consumers to watch all of them, thus the competition is inevitable. Companies must make use of any approaches they have to attract users, including making their products novel to people, otherwise they lose.
+
+In my opinion, this development is undoubtedly good for us. As it becomes popular, corporations face the pressure to enrich the variety of commodities. As a result, people can enjoy more convenient products, and the society can benefit from it. Moreover, competition between companies leads to future technological progress. Appearance of automobiles replaced classic carriages, invention of smartphones caused the distinction of mobile phones with buttons. Humanity used to fight for survival, now we fight against ourselves!
+
+In conclusion, this trend is natural due to social and commercial factors, and it could benefits everyone, from now and then.
