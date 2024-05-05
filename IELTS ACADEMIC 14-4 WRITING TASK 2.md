@@ -1,0 +1,19 @@
+In modern world, number of self-employed individuals is increasing. In the essay, I will present the underlying reasons for this circumstance, and delve into some drawbacks of it.
+
+**In the modern world, the number of self-employed individuals is increasing. In this essay, I will present the underlying reasons for this trend and delve into some of its drawbacks.**
+
+Throughout ~~the~~ history, our ancestors spent most of time feeding ourselves, with few time to think about the meaning of life. It was not until the industrial revolution that humans finally could produce sufficient foods, thus we started discovering new lifestyles. Nowadays, the advanced industrialized society forms the materialistic basis for people to be self-employed, without the need to worry about sustenance.
+
+**Throughout history, our ancestors spent most of their time ==securing food for survival==, leaving little opportunity to ==contemplate== the meaning of life. It was not until the industrial revolution that humans could produce sufficient food, allowing us to explore new lifestyles. In today’s advanced industrialized society, ==material abundance provides the foundation for self-employment, eliminating concerns about sustenance.==**
+
+From self-employed people's perspective, there are numerous benefits. Firstly, people can implement more free time management, without the supervise from their bosses and managers. Secondly, people have chances to pursue their dreams, such as traveling and making special cuisine. Thirdly, being self-employed unleashes their creativity, according to a research from Stanford University, people are more likely to come up with novel ideas without routines and frameworks.
+
+**From the perspective of self-employed individuals, there are numerous benefits. Firstly, they can manage their time more freely without ==supervision== from bosses and managers. Secondly, self-employment ==allows== people ==to== pursue their dreams, such as traveling or creating special cuisine. Thirdly, being self-employed unleashes creativity. Research from Stanford University ==suggests== that people are more likely to generate novel ideas ==when free from rigid routines and frameworks==.**
+
+However, we cannot overlook the accompanying disadvantages. As a self-employed individual, unstable salary should be the most afflicting problem. For traditional careers, employees are often paid stably, which is difficult for self-employed individuals to achieve. Another noteworthy drawback is that self-employed people usually work independently, while in companies, people work in team. Cooperation is necessary for accomplishing huge projects. For instance, during the World War II, United States assembled hundreds of scientists to invent the first atomic bomb. Even with the collective power, it still took 4 years to finalize.
+
+**However, we cannot overlook the accompanying disadvantages. As a self-employed individual, an unstable salary is ==perhaps== the most significant challenge. ==Unlike== traditional careers where employees receive stable pay, self-employed individuals face income ==fluctuations==. Another noteworthy drawback is that self-employed people often work independently, ==whereas== in companies, teamwork is essential for accomplishing large projects. For example, during World War II, the United States assembled hundreds of scientists to invent the first atomic bomb. Despite their collective ==expertise==, the project still took four years to finalize.**
+
+In conclusion, being self-employed is always accompanied by uncertainty and do-it-yourself, that is why I respect those courageous people and admire their extraordinary determination.
+
+**In summary, the path of self-employment ==is marked by== uncertainty and ==self-reliance==. I ==hold great respect for== these courageous individuals and admire their ==unwavering== determination.**
