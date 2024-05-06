@@ -13,3 +13,11 @@ Water from the river flows in the high-level reservoir and stays there. In the d
 At night, the whole process is reversed. The turbines we used to generate electricity at day, are reversible, will act as pumpers at night. Which means it can pump the water from the low-level reservoir to the high-level, creating a upward flow. In the next morning, enough water difference is established again, and the cycle will be repeated indefinitely.
 
 **At night, the process is reversed. The same turbines that generated electricity during the day now act as pumps. They pump water from the low-level reservoir back up to the high-level reservoir, creating an upward flow. ==By morning==, enough water difference is ==reestablished==, and the cycle repeats indefinitely.**
+
+During the day/daytime
+
+At night
+
+through/via
+
+By morning

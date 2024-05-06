@@ -13,3 +13,21 @@ From the bar chart, we can see that petroleum products and engineered goods were
 By analyzing the table, we find that textiles and engineered goods presented considerable growth over the period, especially the textiles, whose percentage increased by 15.24% - the most prominent one compared with others. Engineered goods' percentage stood at 8.5%, which is also strong. One unfortunate exception is Gems and jewellery, which was the only dropping  group, whose percentage decreased by 5.18%.
 
 **==Analyzing the table==, we ==observe== that textiles and engineered goods showed considerable growth over the period. Textiles had the most prominent increase, ==with a percentage rise of 15.24%==, while engineered goods’ percentage stood at 8.5%, which is also strong. Unfortunately, Gems and jewelry was the only category that declined, with a percentage decrease of 5.18%.**
+
+Analyzing/From the chart
+
+increase/grow/rise
+
+decrease/drop/decline
+
+experience the most adjective growth/decline
+
+with a percentage rise/drop of ...
+
+increasing from ... to ...
+
+hold leading position
+
+find -> observe
+
+

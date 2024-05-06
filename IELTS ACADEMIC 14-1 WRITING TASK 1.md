@@ -13,3 +13,17 @@ Dinner is the prominent factor to sodium and saturated fat, whose percentages ar
 However, there is a absolutely different pattern in added sugar. As we can see, almost a half of added sugar is from snacks, 42% in detail. Dinner and lunch, which are major factors in sodium and saturated fat, surprisingly only account for 23% and 19% in added sugar. Proportion of breakfast remains similar to the other two nutrients, 16% to be specific.
 
 **However, there is a ==starkly== different pattern for added sugar. Nearly half of the added sugar comes from snacks (42%). Surprisingly, dinner and lunch, which are major ==contributors== to sodium and saturated fat, only account for 23% and 19% of added sugar, respectively. The proportion of breakfast remains similar to the other two nutrients, specifically 16%.**
+
+exhibit similar distributions/trends
+
+Item comprise/contribute/represent/account for xx% of something
+
+(being)/(making it) the most adjective something
+
+(being)/(making it) the major contributor to
+
+the majority/minority comes from item
+
+Item occupies the largest portion
+
+Item plays a prominent role in

@@ -9,3 +9,19 @@ In 1920, a relatively small but elegant stage sat in the west of the park, servi
 The redevelopment in the east of the park is even more significant. In the past, a pond situated in the northeastern corner, however, it was developed into a play area for children's entertainment. In the southeast, we can see a nice water feature, a glasshouse used to be in the same place. Additionally, near the water feature, an extra entrance is constructed, facilitating people from underground car park.
 
 **The eastern section of Grange Park ==has seen substantial improvements==. In the past, a pond occupied the northeastern corner. However, thoughtful redevelopment has transformed this space into a lively play area for children. ==Moving southeast,== we encounter a delightful water feature. ==Previously==, a glasshouse stood here, but it has been relocated. ==Adjacent== to the water feature, an additional entrance has been constructed. ==This entrance provides convenient access for park-goers arriving from the underground car park==.**
+
+Object (is situated in)/(stand in)/(occupy) somewhere
+
+Object features object
+
+Object (is replaced with)/(have given way to) object
+
+In the (western part/area/region)/(west)
+
+Fast forward to today
+
+Moving southward
+
+Adjacent to
+
+Place has seen substantial improvements
