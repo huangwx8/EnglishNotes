@@ -10,4 +10,4 @@ China and United States are the main contributors among all countries. In 2014, 
 
 There is an obvious trend that the majority of countries had higher electricity production than consumption. The only anomaly in this chart is Germany, which represented 526.6 billion kWh in generation and 582.5 billion kWh in spending.
 
-**An obvious trend emerges: the majority of countries had higher electricity production than consumption. The sole anomaly in this chart ==pertains to== Germany, which generated 526.6 billion kWh and consumed 582.5 billion kWh.**
+**An obvious trend ==emerges==: the majority of countries had higher electricity production than consumption. Germany stood out as an anomaly, which generated 526.6 billion kWh and consumed 582.5 billion kWh.**
