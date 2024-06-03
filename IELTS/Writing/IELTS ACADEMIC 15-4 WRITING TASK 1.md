@@ -13,3 +13,7 @@ From the pie chart, it is obvious that the full-time work occupies the largest p
 From the table, we can see that Government sector and Freelance consultants sector provides very competitive salaries. Each of them has 80% of employees earning more than 75,000 dollars per year, percentage of workers earning more than 100,000 dollars a year in government sector even reach 50%! However, private companies are not so lucky, with only 55% of employees have yearly salaries above 75,000 dollars.
 
 **Turning to the table, we ==observe== that the government sector and freelance consultants offer highly competitive salaries. ==In both== sectors, 80% of employees earn more than $75,000 per year. ==Remarkably==, in the government sector, 50% of workers earn ==over== $100,000 ==annually==. However, private companies are less ==fortunate==, with only 55% of employees having yearly salaries ==exceeding== $75,000.****
+
+make it first/come in second/rank third
+obvious/evident
+Remarkably/Surprisingly/Shockingly

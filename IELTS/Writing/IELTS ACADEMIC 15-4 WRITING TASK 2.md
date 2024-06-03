@@ -13,3 +13,8 @@ Nevertheless, such education is criticized by many, a major reason is the worry 
 In conclusion, "try-hard-education" can help children make progress in some degree, but it may harm them if hard-working becomes almost everything in their lives. Parents and governments should realize: Health and happiness, are always more important for humans.
 
 **In conclusion, while “try-hard education” can drive children toward progress ==to some extent==, it also ==risks== overshadowing other crucial aspects of their lives. Parents and governments must ==recognize== that health and happiness should always ==take precedence==.**
+
+Across various cultures
+sheer effort/sole factor
+instill in sb belief
+stem from
