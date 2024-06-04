@@ -40,7 +40,7 @@
 | 37  | revel            | v. 狂欢             |
 | 38  | forthwith        | adv. 立即，马上        |
 | 39  | onerous          | 繁重的               |
-| 40  | annotate         | 繁重的               |
+| 40  | annotate         | 注释                |
 | 41  | prodigious       | 巨大的               |
 | 42  | proofread        | 校对                |
 | 43  | gallant          | 英勇的，勇敢的           |
