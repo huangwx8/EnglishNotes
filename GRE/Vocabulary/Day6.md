@@ -57,3 +57,4 @@
 | 54  | illusory         | 虚假的        |
 | 55  | supplicate       | 恳求         |
 | 56  | admonish         | 批评; 告诫     |
+| 57  | perpetrate       | 犯罪         |
