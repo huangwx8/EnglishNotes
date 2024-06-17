@@ -2,7 +2,7 @@
 | No  | En               | Cn              |
 | --- | ---------------- | --------------- |
 | 1   | inextricable     | 无法解决的           |
-| 2   | sententious      | 说教的，劝诫的         |
+| 2   | sententious      | 说教的             |
 | 3   | dilapidate       | 毁坏，荒废           |
 | 4   | flamboyant       | 耀眼的             |
 | 5   | opulent          | 富裕的; 奢侈的        |
@@ -45,7 +45,7 @@
 | 42  | gaffe            | n. 失礼           |
 | 43  | sartorial        | adj. 裁缝的，制衣的    |
 | 44  | providential     | 幸运的             |
-| 45  | ethos            | 精神特质，道德意识       |
+| 45  | ethos            | 道德意识            |
 | 46  | mirth            | 欢乐，欢笑           |
 | 47  | cleave           | 忠诚于;  劈开        |
 | 48  | peregrinate      | v. 旅行           |
@@ -57,7 +57,7 @@
 | 54  | burgeon          | v. 迅速生长         |
 | 55  | divination       | 占卜              |
 | 56  | espouse          | 拥护              |
-| 57  | sloth            | n. 懒散，懒惰        |
+| 57  | sloth            | n. 懒惰           |
 | 58  | quack            | 庸医              |
 | 59  | finale           | 结尾              |
 | 60  | discretion       | 谨慎; 自由决定权       |
