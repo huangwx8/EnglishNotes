@@ -20,8 +20,8 @@
 | 17  | abreast          | 平行的，并列的           |
 | 18  | balk             | 畏缩不前; 阻止          |
 | 19  | expunge          | 擦去，删除             |
-| 20  | parsimonious     | 吝啬的               |
-| 21  | truculent        | 好斗的               |
+| 20  | ==parsimonious== | 吝啬的               |
+| 21  | ==truculent==    | 好斗的               |
 | 22  | virtuoso         | 艺术大师              |
 | 23  | invoke           | 祈求; 执行; 引用        |
 | 24  | mawkish          | 多愁善感的             |
@@ -34,7 +34,7 @@
 | 31  | spartan          | 简朴的; 斯巴达的         |
 | 32  | antedate         | v. 先于             |
 | 33  | agrarian         | 土地的，耕地的           |
-| 34  | commiserate      | 同情，怜悯             |
+| 34  | ==commiserate==  | 同情，怜悯             |
 | 35  | gratify          | 使满足，使高兴           |
 | 36  | christen         | v. 命名             |
 | 37  | revel            | v. 狂欢             |
@@ -45,23 +45,23 @@
 | 42  | proofread        | 校对                |
 | 43  | gallant          | 英勇的，勇敢的           |
 | 44  | assuage          | 安抚，缓和             |
-| 45  | staunch          | 坚定的，忠诚的           |
-| 46  | predicament      | 困境，窘境             |
+| 45  | ==staunch==      | 坚定的，忠诚的           |
+| 46  | ==predicament==  | 困境，窘境             |
 | 47  | forswear         | 放弃                |
 | 48  | peerless         | 无与伦比的             |
 | 49  | prefigure        | 预示                |
 | 50  | tender           | adj. 温柔的; v. 提供   |
 | 51  | decimate         | 大量毁灭              |
-| 52  | avaricious       | 贪婪的               |
-| 53  | purview          | 范围                |
+| 52  | ==avaricious==   | 贪婪的               |
+| 53  | ==purview==      | 范围                |
 | 54  | brusque          | 简短的，唐突的           |
 | 55  | collegiality     | 共同掌权              |
 | 56  | enfeeble         | 使衰弱               |
 | 57  | evince           | 表明                |
-| 58  | quotidian        | 每日的; 平凡的          |
+| 58  | ==quotidian==    | 每日的; 平凡的          |
 | 59  | wayward          | 任性的               |
 | 60  | zenith           | 顶峰，顶点             |
-| 61  | facetious        | 滑稽的，诙谐的           |
+| 61  | ==facetious==    | 滑稽的，诙谐的           |
 | 62  | undercut         | 削弱                |
 | 63  | byword           | 代名词               |
 | 64  | unravel          | 阐明，解开             |

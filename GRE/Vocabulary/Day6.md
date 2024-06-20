@@ -2,7 +2,7 @@
 | No  | En               | Cn         |
 | --- | ---------------- | ---------- |
 | 1   | instigate        | 开始，发起      |
-| 2   | ameliorate       | 改善         |
+| 2   | ==ameliorate==   | 改善         |
 | 3   | yield            | 屈服         |
 | 4   | contingent       | 取决于        |
 | 5   | grapple          | 处理         |
@@ -15,26 +15,26 @@
 | 12  | chary            | 谨慎的，仔细的    |
 | 13  | furnish          | 提供，供应      |
 | 14  | asunder          | 分离地        |
-| 15  | comity           | 友谊         |
+| 15  | ==comity==       | 友谊         |
 | 16  | obstruct         | 阻挡，妨碍      |
 | 17  | piecemeal        | 零碎的        |
 | 18  | melancholy       | 忧郁的，令人伤感的  |
 | 19  | teetotalism      | 绝对禁酒       |
 | 20  | glum             | 阴沉的，忧郁的    |
 | 21  | disown           | 否认         |
-| 22  | obstreperous     | 吵闹的; 难驾驭的  |
-| 23  | germane          | 密切相关的      |
-| 24  | charlatan        | 骗子         |
-| 25  | puerile          | 愚蠢的，幼稚的    |
+| 22  | ==obstreperous== | 吵闹的; 难驾驭的  |
+| 23  | ==germane==      | 密切相关的      |
+| 24  | ==charlatan==    | 骗子         |
+| 25  | ==puerile==      | 愚蠢的，幼稚的    |
 | 26  | mollify          | 平息，抚慰      |
 | 27  | dearth           | 缺乏         |
 | 28  | inviting         | 吸引人的，诱人的   |
-| 29  | irascible        | 易怒的        |
+| 29  | ==irascible==    | 易怒的        |
 | 30  | bookish          | 书呆子气的      |
 | 31  | demonstrative    | 流露感情的      |
 | 32  | lowly            | adj. 卑微的   |
 | 33  | alarmist         | 危言耸听的      |
-| 34  | leach            | 过滤         |
+| 34  | ==leach==        | 过滤         |
 | 35  | irreparable      | 不可弥补的      |
 | 36  | straggle         | 蔓延，散乱      |
 | 37  | reprisal         | 报复         |
@@ -50,11 +50,11 @@
 | 47  | mainstay         | 支柱，中流砥柱    |
 | 48  | endemic          | 地方性的       |
 | 49  | anachronistic    | 过时的; 时代错误的 |
-| 50  | impugn           | 指责         |
+| 50  | ==impugn==       | 指责         |
 | 51  | nominal          | 名义上的       |
 | 52  | nondescript      | 无个性的       |
 | 53  | solace           | 安慰         |
 | 54  | illusory         | 虚假的        |
-| 55  | supplicate       | 恳求         |
-| 56  | admonish         | 批评; 告诫     |
+| 55  | ==supplicate==   | 恳求         |
+| 56  | ==admonish==     | 批评; 告诫     |
 | 57  | perpetrate       | 犯罪         |
