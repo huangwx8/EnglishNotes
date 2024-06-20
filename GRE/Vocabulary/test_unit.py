@@ -20,8 +20,13 @@ if not f:
 f.readline()
 f.readline()
 
+peek = False
+
 while True:
-    line = f.readline()
+    if not peek:
+        line = f.readline()
+    else:
+        peek = False
     if not line:
         break
     tokens = line.split("|")
@@ -31,6 +36,9 @@ while True:
     trans = tokens[3]
     print(word)
     inputline = input()
+    if inputline == "p":
+        peek = True
+        print(trans)
     if inputline == "q":
         break
     if inputline == "x":
