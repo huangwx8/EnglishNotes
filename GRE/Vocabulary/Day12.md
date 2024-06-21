@@ -6,7 +6,7 @@
 | 3   | officious       | 爱管闲事的      |
 | 4   | supercilious    | 傲慢的        |
 | 5   | mishap          | 小事故，小错误    |
-| 6   | putative        | 公认的        |
+| 6   | ==putative==    | 公认的        |
 | 7   | resurface       | 重新露面       |
 | 8   | pagan           | 异教徒        |
 | 9   | extenuate       | 减轻，减弱      |
@@ -16,14 +16,14 @@
 | 13  | half-formulated | 半成品的       |
 | 14  | chimera         | 幻想         |
 | 15  | goosebumps      | 鸡皮疙瘩       |
-| 16  | perfidious      | 背信弃义的      |
+| 16  | ==perfidious==  | 背信弃义的      |
 | 17  | renounce        | 宣布放弃       |
 | 18  | bore            | 使烦扰        |
 | 19  | proliferate     | 激增         |
 | 20  | exiguous        | 稀少的        |
 | 21  | sobering        | 严肃的        |
 | 22  | acumen          | 敏锐         |
-| 23  | paragon         | 杰出典范       |
+| 23  | ==paragon==     | 杰出典范       |
 | 24  | assail          | 批评，攻击      |
 | 25  | adjourn         | 延期         |
 | 26  | rail            | 抱怨，责骂      |
@@ -44,11 +44,11 @@
 | 41  | clot            | 凝结         |
 | 42  | indiscernible   | 难以理解的      |
 | 43  | roil            | 激荡，扰乱      |
-| 44  | anodyne         | 不遭人烦的; 止痛的 |
+| 44  | ==anodyne==     | 不遭人烦的; 止痛的 |
 | 45  | replete         | 充满的        |
 | 46  | compendium      | 纲要，概略      |
 | 47  | decisive        | 果断的; 毋庸置疑的 |
-| 48  | seemly          | 支柱，支撑      |
+| 48  | seemly          | 合适的；得体的    |
 | 49  | circumspect     | 谨慎的        |
 | 50  | glut            | 过量         |
 | 51  | belabor         | 过分强调; 抨击   |
@@ -57,7 +57,7 @@
 | 54  | ascendant       | 占主导的; 上升的  |
 | 55  | prowess         | 英勇; 超凡技术   |
 | 56  | spew            | 喷出，涌出      |
-| 57  | obsequious      | 谄媚的        |
+| 57  | ==obsequious==  | 谄媚的        |
 | 58  | peremptory      | 专横的，霸道的    |
 | 59  | boor            | 粗鲁的人       |
 | 60  | assuming        | 傲慢的        |
