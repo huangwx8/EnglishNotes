@@ -2,7 +2,7 @@
 | No  | En               | Cn              |
 | --- | ---------------- | --------------- |
 | 1   | inextricable     | 无法解决的           |
-| 2   | sententious      | 说教的             |
+| 2   | sententious      | 说教的，劝诫的         |
 | 3   | dilapidate       | 毁坏，荒废           |
 | 4   | flamboyant       | 耀眼的             |
 | 5   | opulent          | 富裕的; 奢侈的        |
@@ -32,32 +32,33 @@
 | 29  | glib             | 油嘴滑舌的           |
 | 30  | burlesque        | 滑稽讽刺            |
 | 31  | strain           | 尽力              |
-| 32  | stratified       | 分层的             |
-| 33  | bumbling         | 笨手笨脚的           |
-| 34  | emphatic         | 强调的，显著的         |
-| 35  | pivotal          | 重要的             |
-| 36  | arrest           | 逮捕; 阻止; 吸引      |
-| 37  | transcend        | 超越              |
-| 38  | rapport          | 融洽              |
-| 39  | fetishize        | 盲目迷恋            |
-| 40  | braggadocio      | 自夸，吹牛           |
-| 41  | foray            | n. 初次尝试; v. 侵略  |
-| 42  | gaffe            | n. 失礼           |
-| 43  | sartorial        | adj. 裁缝的，制衣的    |
-| 44  | providential     | 幸运的             |
-| 45  | ethos            | 道德意识            |
-| 46  | mirth            | 欢乐，欢笑           |
-| 47  | cleave           | 忠诚于;  劈开        |
-| 48  | peregrinate      | v. 旅行           |
-| 49  | enjoin           | v. 命令           |
-| 50  | compartmentalize | 分开              |
-| 51  | airborne         | 空气传播的           |
-| 52  | vainglorious     | 自负的             |
-| 53  | curator          | n. 管理员          |
-| 54  | burgeon          | v. 迅速生长         |
-| 55  | divination       | 占卜              |
-| 56  | espouse          | 拥护              |
-| 57  | sloth            | n. 懒惰           |
-| 58  | quack            | 庸医              |
-| 59  | finale           | 结尾              |
-| 60  | discretion       | 谨慎; 自由决定权       |
+| 32  | lackluster       | 平凡的，无光泽的        |
+| 33  | stratified       | 分层的             |
+| 34  | bumbling         | 笨手笨脚的           |
+| 35  | emphatic         | 强调的，显著的         |
+| 36  | pivotal          | 重要的             |
+| 37  | arrest           | 逮捕; 阻止; 吸引      |
+| 38  | transcend        | 超越              |
+| 39  | rapport          | 融洽              |
+| 40  | fetishize        | 盲目迷恋            |
+| 41  | braggadocio      | 自夸，吹牛           |
+| 42  | foray            | n. 初次尝试; v. 侵略  |
+| 43  | gaffe            | n. 失礼           |
+| 44  | sartorial        | adj. 裁缝的，制衣的    |
+| 45  | providential     | 幸运的             |
+| 46  | ethos            | 精神特质，道德意识       |
+| 47  | mirth            | 欢乐，欢笑           |
+| 48  | cleave           | 忠诚于;  劈开        |
+| 49  | peregrinate      | v. 旅行           |
+| 50  | enjoin           | v. 命令           |
+| 51  | compartmentalize | 分开              |
+| 52  | airborne         | 空气传播的           |
+| 53  | vainglorious     | 自负的             |
+| 54  | curator          | n. 管理员          |
+| 55  | burgeon          | v. 迅速生长         |
+| 56  | divination       | 占卜              |
+| 57  | espouse          | 拥护              |
+| 58  | sloth            | n. 懒散，懒惰        |
+| 59  | quack            | 庸医              |
+| 60  | finale           | 结尾              |
+| 61  | discretion       | 谨慎; 自由决定权       |

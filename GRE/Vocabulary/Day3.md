@@ -2,7 +2,7 @@
 | --- | ----------------- | -------------- |
 | 1   | devolve           | （权利，责任等）下放; 衰落 |
 | 2   | instantiate       | 举例说明           |
-| 3   | snappish          | 暴躁的            |
+| 3   | ==snappish==      | 暴躁的            |
 | 4   | soporific         | 催眠的            |
 | 5   | decry             | 公开谴责           |
 | 6   | perspicuous       | 清晰的            |
