@@ -4,8 +4,8 @@
 | 2   | instantiate       | 举例说明           |
 | 3   | ==snappish==      | 暴躁的            |
 | 4   | soporific         | 催眠的            |
-| 5   | decry             | 公开谴责           |
-| 6   | perspicuous       | 清晰的            |
+| 5   | ==decry==         | 公开谴责           |
+| 6   | ==perspicuous==   | 清晰的            |
 | 7   | subtext           | 潜在含义           |
 | 8   | electorate        | 选民             |
 | 9   | expediency        | 权宜之计           |
@@ -16,7 +16,7 @@
 | 14  | incubate          | 孵化，培养          |
 | 15  | vanguard          | 先锋             |
 | 16  | boon              | 好处，恩惠          |
-| 17  | dexterous         | 机敏的            |
+| 17  | ==dexterous==     | 机敏的            |
 | 18  | ==lackadaisical== | 无精打采的，懒散的      |
 | 19  | ==nugatory==      | 不重要的，琐碎的       |
 | 20  | ==temerity==      | 鲁莽，冒失          |
@@ -25,7 +25,7 @@
 | 23  | interweave        | 交织             |
 | 24  | materialize       | 显现; 实现         |
 | 25  | tonic             | 恢复健康的          |
-| 26  | convivial         | 好交际的，欢乐的       |
+| 26  | ==convivial==     | 好交际的，欢乐的       |
 | 27  | run-of-the-mill   | 普通的            |
 | 28  | ==retrench==      | 删减             |
 | 29  | purveyor          | 供应商            |
@@ -35,7 +35,7 @@
 | 33  | evanescent        | 短暂的            |
 | 34  | inert             | 惰性的            |
 | 35  | bellicose         | 好斗的，好战的        |
-| 36  | patrimony         | 遗产             |
+| 36  | ==patrimony==     | 遗产             |
 | 37  | ramshackle        | 破烂的            |
 | 38  | vapid             | 乏味的            |
 | 39  | discursive        | 漫谈离题的          |
@@ -50,7 +50,7 @@
 | 48  | ==pandemonium==   | 混乱             |
 | 49  | wanting           | 有缺陷的           |
 | 50  | pan               | 严厉批评           |
-| 51  | effluvium         | 恶臭，臭气          |
+| 51  | ==effluvium==     | 恶臭，臭气          |
 | 52  | unkempt           | 不整洁的           |
 | 53  | ==abrade==        | 磨损; 折磨         |
 | 54  | soothsayer        | 预言者            |

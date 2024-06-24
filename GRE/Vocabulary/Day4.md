@@ -57,7 +57,7 @@
 | 54  | brusque          | 简短的，唐突的           |
 | 55  | collegiality     | 共同掌权              |
 | 56  | enfeeble         | 使衰弱               |
-| 57  | evince           | 表明                |
+| 57  | ==evince==       | 表明                |
 | 58  | ==quotidian==    | 每日的; 平凡的          |
 | 59  | wayward          | 任性的               |
 | 60  | zenith           | 顶峰，顶点             |
@@ -69,5 +69,5 @@
 | 66  | anthropocentrism | 人类中心说             |
 | 67  | onetime          | 过去的               |
 | 68  | commendation     | 称赞                |
-| 69  | torpor           | 麻木，懒散             |
+| 69  | ==torpor==       | 麻木，懒散             |
 

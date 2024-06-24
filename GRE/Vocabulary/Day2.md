@@ -56,7 +56,7 @@
 | 54  | invertebrate     | 无骨气的，软弱的        |
 | 55  | impermanent      | 短暂的             |
 | 56  | ==execrate==     | 痛骂，憎恶           |
-| 57  | lachrymose       | 爱哭的，爱流眼泪的       |
+| 57  | ==lachrymose==   | 爱哭的，爱流眼泪的       |
 | 58  | restorative      | 恢复健康的           |
 | 59  | disgorge         | 排出              |
 | 60  | somnolent        | 昏睡的, 催眠的        |

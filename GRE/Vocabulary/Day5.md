@@ -14,7 +14,7 @@
 | 12  | import         | 重要性          |
 | 13  | camaraderie    | 情谊，友情        |
 | 14  | recant         | 宣布放弃         |
-| 15  | jubilation     | 欣喜           |
+| 15  | ==jubilation== | 欣喜           |
 | 16  | preachy        | 爱说教的         |
 | 17  | ==hallow==     | 崇敬           |
 | 18  | congenial      | 令人愉快的; 性格相同的 |
@@ -41,7 +41,7 @@
 | 39  | spearhead      | 先锋部队         |
 | 40  | flummox        | 使困惑          |
 | 41  | evocative      | 唤起感情的        |
-| 42  | panoply        | 盛况，盛典        |
+| 42  | ==panoply==    | 盛况，盛典        |
 | 43  | illicit        | 违法的，不正当的     |
 | 44  | expendable     | 可消费的         |
 | 45  | waggish        | 滑稽的，爱开玩笑的    |

@@ -21,7 +21,7 @@
 | 19  | elicit           | 引出         |
 | 20  | pantheon         | 名流群        |
 | 21  | demarcation      | 界限         |
-| 22  | antediluvian     | 过时的        |
+| 22  | ==antediluvian== | 过时的        |
 | 23  | disinterested    | 公正的        |
 | 24  | idiosyncrasy     | 特质         |
 | 25  | becoming         | 合适的，得体的    |
@@ -49,10 +49,10 @@
 | 47  | noisome          | 令人讨厌的，恶臭的  |
 | 48  | insightful       | 有洞察力的      |
 | 49  | ==aspersion==    | 诽谤         |
-| 50  | woo              | 恳求，争取      |
+| 50  | ==woo==          | 恳求，争取      |
 | 51  | coin             | 发明         |
 | 52  | eccentric        | 古怪的，反常的    |
 | 53  | fallacious       | 谬误的        |
-| 54  | immolate         | 牺牲，献祭      |
+| 54  | ==immolate==     | 牺牲，献祭      |
 | 55  | rebut            | 反驳，拒绝      |
 | 56  | stupefy          | 使震惊，使惊呆    |

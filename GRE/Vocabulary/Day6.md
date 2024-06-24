@@ -20,13 +20,13 @@
 | 17  | piecemeal        | 零碎的        |
 | 18  | melancholy       | 忧郁的，令人伤感的  |
 | 19  | teetotalism      | 绝对禁酒       |
-| 20  | glum             | 阴沉的，忧郁的    |
+| 20  | ==glum==         | 阴沉的，忧郁的    |
 | 21  | disown           | 否认         |
 | 22  | ==obstreperous== | 吵闹的; 难驾驭的  |
 | 23  | ==germane==      | 密切相关的      |
 | 24  | ==charlatan==    | 骗子         |
 | 25  | ==puerile==      | 愚蠢的，幼稚的    |
-| 26  | mollify          | 平息，抚慰      |
+| 26  | ==mollify==      | 平息，抚慰      |
 | 27  | dearth           | 缺乏         |
 | 28  | inviting         | 吸引人的，诱人的   |
 | 29  | ==irascible==    | 易怒的        |
@@ -38,7 +38,7 @@
 | 35  | irreparable      | 不可弥补的      |
 | 36  | straggle         | 蔓延，散乱      |
 | 37  | reprisal         | 报复         |
-| 38  | churlish         | 无礼的        |
+| 38  | ==churlish==     | 无礼的        |
 | 39  | barring          | 除...之外     |
 | 40  | blighted         | 枯萎的        |
 | 41  | verity           | 真实，真理      |
