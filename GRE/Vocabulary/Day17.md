@@ -1,3 +1,4 @@
+
 | No  | En               | Cn           |
 | --- | ---------------- | ------------ |
 | 1   | quirky           | 奇怪的          |
@@ -5,7 +6,7 @@
 | 3   | backfire         | v. 事与愿违      |
 | 4   | earnest          | 非常认真的，真诚的    |
 | 5   | idiomatic        | 惯用的          |
-| 6   | revile           | v. 辱骂        |
+| 6   | ==revile==       | v. 辱骂        |
 | 7   | accession        | 就职; 遵守       |
 | 8   | vacant           | 空的; 心不在焉的    |
 | 9   | ==heinous==      | 十恶不赦的        |
@@ -21,13 +22,13 @@
 | 19  | ==curt==         | 唐突无礼的        |
 | 20  | instrumental     | 有帮助的         |
 | 21  | vested           | 既定的，既得的      |
-| 22  | inure            | 使习惯          |
+| 22  | ==inure==        | 使习惯          |
 | 23  | downplay         | 不予重视         |
 | 24  | decadent         | 堕落的，衰退的      |
 | 25  | nonsensical      | 无意义的，荒谬的     |
 | 26  | levity           | 轻浮，轻率        |
 | 27  | upsurge          | n. 急剧上升      |
-| 28  | invidious        | 引起反感的        |
+| 28  | ==invidious==    | 引起反感的        |
 | 29  | impetuous        | 鲁莽的          |
 | 30  | misnomer         | n. 名称误用      |
 | 31  | ambivalence      | 矛盾           |
@@ -41,7 +42,7 @@
 | 39  | prescient        | 有预知能力的       |
 | 40  | backhanded       | 间接的          |
 | 41  | ==abominate==    | 憎恨           |
-| 42  | ecumenical       | 普遍的，世界范围的    |
+| 42  | ==ecumenical==   | 普遍的，世界范围的    |
 | 43  | impeachable      | adj. 可控告的    |
 | 44  | insipid          | 枯燥乏味的        |
 | 45  | counterfeit      | 伪造           |

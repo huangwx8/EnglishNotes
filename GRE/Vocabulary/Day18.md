@@ -11,7 +11,7 @@
 | 8   | limpid         | 清晰的                |
 | 9   | artful         | 巧妙的                |
 | 10  | ductile        | 易受影响的，易延展的         |
-| 11  | seethe         | v. 激动              |
+| 11  | ==seethe==     | v. 激动              |
 | 12  | minute         | adj. 微小的           |
 | 13  | nihilism       | 虚无主义               |
 | 14  | pastiche       | 大杂烩                |
@@ -23,13 +23,13 @@
 | 20  | anemia         | 缺乏活力; 贫血           |
 | 21  | malodorous     | 难闻的                |
 | 22  | entreat        | 恳求                 |
-| 23  | florid         | 绚丽的                |
+| 23  | ==florid==     | 绚丽的                |
 | 24  | revitalize     | 使复活，使复兴            |
 | 25  | detritus       | 碎屑，碎片              |
 | 26  | flair          | 天资，天分              |
 | 27  | sever          | 割断，断绝              |
 | 28  | cryptic        | 难解的                |
-| 29  | assiduous      | 努力的                |
+| 29  | ==assiduous==  | 努力的                |
 | 30  | elude          | v. 避开; v. 不能被...理解 |
 | 31  | vertiginous    | 眩晕的                |
 | 32  | opinionated    | 固执己见的              |
@@ -40,7 +40,7 @@
 | 37  | vertigo        | 眩晕，头晕              |
 | 38  | retrofit       | v. 改进              |
 | 39  | futile         | 无用的                |
-| 40  | effusive       | 溢于言表的              |
+| 40  | ==effusive==   | 溢于言表的              |
 | 41  | genteel        | 彬彬有礼的              |
 | 42  | anthropogenic  | 人为的                |
 | 43  | confluence     | 汇合，汇集              |
@@ -54,7 +54,7 @@
 | 51  | sidestep       | 回避                 |
 | 52  | zealot         | 狂热者                |
 | 53  | albeit         | 即使                 |
-| 54  | tawdry         | 俗气的                |
+| 54  | ==tawdry==     | 俗气的                |
 | 55  | lucubration    | 刻苦钻研               |
 | 56  | sectarian      | 狭隘的                |
 | 57  | pique          | v. 激怒，刺激           |
@@ -64,5 +64,5 @@
 | 61  | recondite      | 晦涩难懂的              |
 | 62  | self-regard    | 关注自身利益             |
 | 63  | pine           | 憔悴; 渴望             |
-| 64  | abash          | v. 使羞愧，使窘迫         |
-| 65  | flummery       | 假恭维，胡言乱语           |
+| 64  | ==abash==      | v. 使羞愧，使窘迫         |
+| 65  | ==flummery==   | 假恭维，胡言乱语           |

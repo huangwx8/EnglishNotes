@@ -11,7 +11,7 @@
 | 8   | high-minded      | 高尚的             |
 | 9   | rarefied         | 稀薄的; 仅限于小圈子的    |
 | 10  | merchandise      | 推销              |
-| 11  | camouflage       | 伪装              |
+| 11  | ==camouflage==   | 伪装              |
 | 12  | exultant         | 狂喜的             |
 | 13  | ==panegyric==    | n. 颂词，赞颂        |
 | 14  | ==subterfuge==   | n. 诡计           |
@@ -24,7 +24,7 @@
 | 21  | awash            | 充斥的             |
 | 22  | autocrat         | 独裁者             |
 | 23  | impenetrable     | 无法理解的           |
-| 24  | tribulation      | 苦难，艰辛           |
+| 24  | ==tribulation==  | 苦难，艰辛           |
 | 25  | imbibe           | 饮酒;  吸收         |
 | 26  | ==intimate==     | v. 暗示           |
 | 27  | needy            | 贫穷的，贫困的         |
@@ -40,7 +40,7 @@
 | 37  | arrest           | 逮捕; 阻止; 吸引      |
 | 38  | transcend        | 超越              |
 | 39  | ==rapport==      | 融洽              |
-| 40  | fetishize        | 盲目迷恋            |
+| 40  | ==fetishize==    | 盲目迷恋            |
 | 41  | braggadocio      | 自夸，吹牛           |
 | 42  | foray            | n. 初次尝试; v. 侵略  |
 | 43  | ==gaffe==        | n. 失礼           |
