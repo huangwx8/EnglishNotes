@@ -4,7 +4,7 @@
 | 1   | redouble         | 大量增加                   |
 | 2   | penitent         | 忏悔的                    |
 | 3   | annal            | 记录，编年史                 |
-| 4   | lethargic        | 无精打采的                  |
+| 4   | ==lethargic==    | 无精打采的                  |
 | 5   | exposition       | 阐述                     |
 | 6   | bungle           | 搞砸                     |
 | 7   | unrelenting      | 持续的; 无情的               |
@@ -60,5 +60,5 @@
 | 57  | paucity          | 不足                     |
 | 58  | discretionary    | 自由决定的                  |
 | 59  | ==insular==      | 狭隘的                    |
-| 60  | impertinent      | 不礼貌的                   |
+| 60  | ==impertinent==  | 不礼貌的                   |
 | 61  | minimize         | v.  贬低                 |
