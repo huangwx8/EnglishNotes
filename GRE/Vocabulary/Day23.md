@@ -11,7 +11,7 @@
 | 9   | arable            | 适合耕种的                  |
 | 10  | hand-wringing     | 绝望                     |
 | 11  | unprepossessing   | 不吸引人的                  |
-| 12  | precipitate       | v. 引发; v. 沉淀; adj. 冲动的 |
+| 12  | ==precipitate==   | v. 引发; v. 沉淀; adj. 冲动的 |
 | 13  | second            | 支持                     |
 | 14  | ==cliché==        | 陈词滥调                   |
 | 15  | telltale          | 标志，信号                  |
@@ -20,7 +20,7 @@
 | 18  | unflagging        | 不知疲倦的                  |
 | 19  | ==venal==         | 贪赃枉法的; 唯利是图的           |
 | 20  | like-minded       | 志趣相投的                  |
-| 21  | flabbergast       | 使大吃一惊                  |
+| 21  | ==flabbergast==   | 使大吃一惊                  |
 | 22  | sound             | 健康的; 正确的; 可靠的          |
 | 23  | exactitude        | 精确性                    |
 | 24  | scaremonger       | 危言耸听者                  |
@@ -44,7 +44,7 @@
 | 42  | overbearing       | 傲慢的，专横的                |
 | 43  | repeal            | 废除，撤销                  |
 | 44  | lukewarm          | 不热情的                   |
-| 45  | sycophantic       | 谄媚的                    |
+| 45  | ==sycophantic==   | 谄媚的                    |
 | 46  | pilfer            | 偷窃                     |
 | 47  | pastoral          | 乡村的                    |
 | 48  | interdisciplinary | 跨学科的                   |
