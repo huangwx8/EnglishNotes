@@ -32,12 +32,12 @@
 | 30  | unruly            | 难驾驭的           |
 | 31  | plodding          | 单调乏味的          |
 | 32  | musty             | 发霉的            |
-| 33  | evanescent        | 短暂的            |
+| 33  | ==evanescent==    | 短暂的            |
 | 34  | inert             | 惰性的            |
 | 35  | bellicose         | 好斗的，好战的        |
 | 36  | ==patrimony==     | 遗产             |
 | 37  | ramshackle        | 破烂的            |
-| 38  | vapid             | 乏味的            |
+| 38  | ==vapid==         | 乏味的            |
 | 39  | discursive        | 漫谈离题的          |
 | 40  | anathema          | 非常讨厌的人或物       |
 | 41  | vulgar            | 粗俗的，通俗的        |
@@ -45,7 +45,7 @@
 | 43  | pliable           | 柔软的            |
 | 44  | eulogize          | 赞美             |
 | 45  | kinship           | 亲属关系           |
-| 46  | martinet          | 严格执行纪律的人       |
+| 46  | ==martinet==      | 严格执行纪律的人       |
 | 47  | savvy             | 悟性             |
 | 48  | ==pandemonium==   | 混乱             |
 | 49  | wanting           | 有缺陷的           |

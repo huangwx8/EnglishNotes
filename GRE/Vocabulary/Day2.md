@@ -5,9 +5,9 @@
 | 3   | occult           | 神秘的             |
 | 4   | comestible       | 可食用的            |
 | 5   | brainchild       | 智慧结晶            |
-| 6   | vicarious        | 间接体验他人感受的，产生共鸣的 |
+| 6   | ==vicarious==    | 间接体验他人感受的，产生共鸣的 |
 | 7   | aplomb           | 镇定，泰然自若         |
-| 8   | vilify           | 诽谤              |
+| 8   | ==vilify==       | 诽谤              |
 | 9   | accede           | 同意, 加入          |
 | 10  | bulwark          | 堡垒              |
 | 11  | disgruntle       | 使不高兴            |
@@ -59,5 +59,5 @@
 | 57  | ==lachrymose==   | 爱哭的，爱流眼泪的       |
 | 58  | restorative      | 恢复健康的           |
 | 59  | disgorge         | 排出              |
-| 60  | somnolent        | 昏睡的, 催眠的        |
+| 60  | ==somnolent==    | 昏睡的, 催眠的        |
 | 61  | glean            | 搜集，获取           |

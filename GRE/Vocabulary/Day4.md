@@ -13,7 +13,7 @@
 | 10  | engender         | 导致                |
 | 11  | exacting         | 严格的               |
 | 12  | covet            | 贪求                |
-| 13  | tortuous         | 弯曲的; 冗长复杂的        |
+| 13  | ==tortuous==     | 弯曲的; 冗长复杂的        |
 | 14  | design           | 故意                |
 | 15  | tumultuous       | 骚乱的               |
 | 16  | frenzy           | 狂暴，疯狂             |
@@ -24,7 +24,7 @@
 | 21  | ==truculent==    | 好斗的               |
 | 22  | virtuoso         | 艺术大师              |
 | 23  | invoke           | 祈求; 执行; 引用        |
-| 24  | mawkish          | 多愁善感的             |
+| 24  | ==mawkish==      | 多愁善感的             |
 | 25  | embolden         | 使大胆               |
 | 26  | vexation         | 烦恼，苦恼             |
 | 27  | compelling       | 激发兴趣的; 令人信服的; 强大的 |
@@ -33,7 +33,7 @@
 | 30  | attune           | 使协调一致             |
 | 31  | spartan          | 简朴的; 斯巴达的         |
 | 32  | antedate         | v. 先于             |
-| 33  | agrarian         | 土地的，耕地的           |
+| 33  | ==agrarian==     | 土地的，耕地的           |
 | 34  | ==commiserate==  | 同情，怜悯             |
 | 35  | gratify          | 使满足，使高兴           |
 | 36  | christen         | v. 命名             |
