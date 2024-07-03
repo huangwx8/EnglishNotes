@@ -4,9 +4,9 @@
 | 1   | instigate        | 开始，发起      |
 | 2   | ==ameliorate==   | 改善         |
 | 3   | yield            | 屈服         |
-| 4   | contingent       | 取决于        |
+| 4   | ==contingent==   | 取决于        |
 | 5   | grapple          | 处理         |
-| 6   | incongruity      | 矛盾         |
+| 6   | ==incongruity==  | 矛盾         |
 | 7   | grandiloquent    | 夸张的        |
 | 8   | derision         | 嘲笑         |
 | 9   | cloying          | 令人厌腻的      |
@@ -41,14 +41,14 @@
 | 38  | ==churlish==     | 无礼的        |
 | 39  | barring          | 除...之外     |
 | 40  | blighted         | 枯萎的        |
-| 41  | verity           | 真实，真理      |
+| 41  | ==verity==       | 真实，真理      |
 | 42  | anthropomorphism | 拟人论        |
 | 43  | staggering       | 令人震惊的      |
 | 44  | arguably         | 可以说        |
-| 45  | denigrate        | 诋毁，玷污      |
+| 45  | ==denigrate==    | 诋毁，玷污      |
 | 46  | involved         | 复杂的        |
 | 47  | mainstay         | 支柱，中流砥柱    |
-| 48  | endemic          | 地方性的       |
+| 48  | ==endemic==      | 地方性的       |
 | 49  | anachronistic    | 过时的; 时代错误的 |
 | 50  | ==impugn==       | 指责         |
 | 51  | nominal          | 名义上的       |

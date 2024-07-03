@@ -3,23 +3,23 @@
 | 1   | rive            | 破裂                    |
 | 2   | circumscribe    | 限制                    |
 | 3   | divest          | 剥夺                    |
-| 4   | vitriolic       | 尖酸刻薄的                 |
+| 4   | ==vitriolic==   | 尖酸刻薄的                 |
 | 5   | taxing          | 费劲的                   |
 | 6   | ==condign==     | 适当的                   |
-| 7   | spunk           | 勇气, 胆量                |
-| 8   | loquacious      | 健谈的                   |
-| 9   | sagacious       | 睿智的                   |
+| 7   | ==spunk==       | 勇气, 胆量                |
+| 8   | ==loquacious==  | 健谈的                   |
+| 9   | ==sagacious==   | 睿智的                   |
 | 10  | apposite        | 合适的                   |
 | 11  | ==callous==     | 冷酷无情的                 |
 | 12  | vengeful        | 复仇的                   |
 | 13  | ==herald==      | 预示; 称赞                |
 | 14  | ==embellish==   | 装饰                    |
-| 15  | stifle          | 阻止                    |
+| 15  | ==stifle==      | 阻止                    |
 | 16  | mimetic         | 模仿的                   |
 | 17  | univocal        | 意义明确的                 |
 | 18  | ape             | （笨拙地）模仿               |
 | 19  | absorbing       | 吸引人的                  |
-| 20  | anthology       | 选集                    |
+| 20  | ==anthology==   | 选集                    |
 | 21  | ==avow==        | 承认                    |
 | 22  | ==gall==        | 使生气                   |
 | 23  | debase          | 贬低                    |
@@ -33,7 +33,7 @@
 | 31  | ==ordain==      | 规定，颁布命令               |
 | 32  | maudlin         | 多愁善感的                 |
 | 33  | ==infamy==      | 恶性，臭名昭著               |
-| 34  | jaded           | 疲倦的                   |
+| 34  | ==jaded==       | 疲倦的                   |
 | 35  | varnish         | 装饰                    |
 | 36  | anchor          | 固定                    |
 | 37  | relish          | 享受                    |
@@ -41,19 +41,19 @@
 | 39  | ==acrimony==    | 尖酸刻薄                  |
 | 40  | idealistic      | 空想的                   |
 | 41  | obstinate       | 固执的，顽强的               |
-| 42  | enamor          | 使迷恋                   |
+| 42  | ==enamor==      | 使迷恋                   |
 | 43  | antiquarian     | 古文物研究的                |
 | 44  | layperson       | 门外汉                   |
 | 45  | ==founder==     | v. 失败                 |
-| 46  | figment         | 虚构的事                  |
+| 46  | ==figment==     | 虚构的事                  |
 | 47  | epilogue        | 结语，尾声                 |
 | 48  | gargantuan      | 巨大的，庞大的               |
 | 49  | solidarity      | 团结                    |
 | 50  | vintage         | 上等的，优质的               |
 | 51  | multifarious    | 多种多样的                 |
 | 52  | aggrieve        | 使痛苦                   |
-| 53  | raillery        | 开玩笑                   |
-| 54  | hedonism        | 享乐主义                  |
+| 53  | ==raillery==    | 开玩笑                   |
+| 54  | ==hedonism==    | 享乐主义                  |
 | 55  | fester          | 恶化                    |
 | 56  | gleam           | 闪光，闪烁                 |
 | 57  | ==pedantic==    | 迂腐的，学究式的              |

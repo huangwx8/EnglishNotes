@@ -13,10 +13,10 @@
 | 11  | detestation      | 憎恶         |
 | 12  | conversant       | 熟悉的        |
 | 13  | veto             | 否决         |
-| 14  | venial           | 轻微的，可原谅的   |
+| 14  | ==venial==       | 轻微的，可原谅的   |
 | 15  | timorous         | 胆怯的，胆小的    |
 | 16  | culinary         | 烹饪的，厨房的    |
-| 17  | sumptuous        | 豪华的，奢华的    |
+| 17  | ==sumptuous==    | 豪华的，奢华的    |
 | 18  | coy              | 腼腆的        |
 | 19  | elicit           | 引出         |
 | 20  | pantheon         | 名流群        |
@@ -35,12 +35,12 @@
 | 33  | bootless         | 无用的        |
 | 34  | straddle         | 包括，跨越      |
 | 35  | equanimity       | 平静         |
-| 36  | largesse         | 捐赠         |
+| 36  | ==largesse==     | 捐赠         |
 | 37  | ==desultory==    | 散漫的，不连贯的   |
 | 38  | ==felicitous==   | 恰当的        |
 | 39  | connoisseur      | 行家         |
 | 40  | mastermind       | 策划者，主谋     |
-| 41  | esoteric         | 深奥难懂的      |
+| 41  | ==esoteric==     | 深奥难懂的      |
 | 42  | heretofore       | adv. 在此之前  |
 | 43  | sanguine         | 乐观的        |
 | 44  | ==skirt==        | 回避         |
