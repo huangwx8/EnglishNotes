@@ -54,14 +54,14 @@
 | 52  | belittle        | 轻视               |
 | 53  | beneficence     | 慈善，善行            |
 | 54  | preternatural   | 异乎寻常的            |
-| 55  | brackish        | 令人恶心的            |
+| 55  | ==brackish==    | 令人恶心的            |
 | 56  | consummate      | 完美的              |
 | 57  | auspicious      | 吉祥的              |
 | 58  | restless        | 焦躁不安的            |
 | 59  | narcissism      | 自恋               |
 | 60  | celebrate       | v. 赞美            |
 | 61  | hypercritical   | 吹毛求疵的            |
-| 62  | pedigree        | 血统               |
+| 62  | ==pedigree==    | 血统               |
 | 63  | unsettle        | 使不安              |
 | 64  | abuse           | v. 虐待; 误用; n. 恶习 |
 
