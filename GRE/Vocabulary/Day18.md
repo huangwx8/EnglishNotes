@@ -56,7 +56,7 @@
 | 53  | albeit         | 即使                 |
 | 54  | ==tawdry==     | 俗气的                |
 | 55  | lucubration    | 刻苦钻研               |
-| 56  | sectarian      | 狭隘的                |
+| 56  | sectarian      | 教派的; 狭隘的           |
 | 57  | pique          | v. 激怒，刺激           |
 | 58  | caricature     | 夸张的描述              |
 | 59  | ascribe        | 归因于                |

@@ -26,7 +26,7 @@
 | 23  | duplicity       | 欺骗                   |
 | 24  | mince           | 矫揉做作地说               |
 | 25  | xenophobic      | 恐惧外国人的               |
-| 26  | ==quizzical==   | 古怪的，引人发笑的            |
+| 26  | ==quizzical==   | 诧异的; 感到好笑的           |
 | 27  | proverbial      | 俗话说的                 |
 | 28  | ==grouchy==     | 抱怨的，脾气差的             |
 | 29  | ==stilted==     | 呆板的，生硬的              |
