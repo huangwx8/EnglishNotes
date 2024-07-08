@@ -29,19 +29,21 @@ while True:
     if len(tokens) < 4:
         break
     oldNo = tokens[1]
-    oldNo.strip()
+    oldNo = oldNo.strip()
     try:
-        oldNo = int(oldNo)
+        print(oldNo)
+        if len(oldNo) != 0:
+            oldNo = int(oldNo)
     except:
         wf.write(line)
         continue
-    else:
-        no = str(lineCount)
-        word = tokens[2]
-        trans = tokens[3]
-        wf.write("| %d | %s | %s |\n"%(lineCount, word, trans))
-        lineCount += 1
-        
+    
+    no = str(lineCount)
+    word = tokens[2]
+    trans = tokens[3]
+    wf.write("| %d | %s | %s |\n"%(lineCount, word, trans))
+    lineCount += 1
+    
 f.close()
 wf.close()
 
