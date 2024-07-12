@@ -39,7 +39,7 @@
 | 36  | riveting       | 令人着迷的         |
 | 37  | portentous     | 先兆的; 不详预兆的    |
 | 38  | obdurate       | 固执的           |
-| 39  | quixotic       | 不切实际的         |
+| 39  | ==quixotic==   | 不切实际的         |
 | 40  | apostle        | 狂热支持者         |
 | 41  | forgo          | 放弃            |
 | 42  | interlocutor   | n. 对话者        |
@@ -50,10 +50,10 @@
 | 47  | besmirch       | v. 玷污，损害      |
 | 48  | cursory        | 草率的           |
 | 49  | odious         | 讨厌的           |
-| 50  | lugubrious     | 悲伤的           |
+| 50  | ==lugubrious== | 悲伤的           |
 | 51  | incisive       | 深刻的           |
 | 52  | shirk          | v. 逃避         |
-| 53  | lurid          | 可怕的，耸人听闻的     |
+| 53  | ==lurid==      | 可怕的，耸人听闻的     |
 | 54  | nepotism       | 任人唯亲          |
 | 55  | cede           | v. 放弃，割让      |
 | 56  | hitch          | n. 故障         |
@@ -64,6 +64,6 @@
 | 61  | retiring       | 害羞的           |
 | 62  | paltry         | 很少的; 无意义的     |
 | 63  | artifice       | n. 诡计，欺骗      |
-| 64  | didactic       | 说教的           |
+| 64  | ==didactic==   | 说教的           |
 | 65  | jarring        | adj. 刺耳的，不和谐的 |
 | 66  | diminutive     | 极小的           |

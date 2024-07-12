@@ -22,7 +22,7 @@
 | 19  | prodigal       | 挥霍的            |
 | 20  | brevity        | 简洁             |
 | 21  | accolade       | n. v. 赞美       |
-| 22  | protean        | 变化多端的; 多才多艺的   |
+| 22  | ==protean==    | 变化多端的; 多才多艺的   |
 | 23  | ruminate       | 认真思考           |
 | 24  | omnipresent    | 无处不在的          |
 | 25  | accent         | v. 强调          |
@@ -49,11 +49,11 @@
 | 46  | rebuke         | 指责             |
 | 47  | dampen         | 抑制             |
 | 48  | quip           | 妙语             |
-| 49  | provident      | 有远见的; 节约的      |
+| 49  | ==provident==  | 有远见的; 节约的      |
 | 50  | slight         | v. 轻视          |
 | 51  | commodious     | 宽敞的            |
 | 52  | fledgling      | 无经验的人          |
-| 53  | stint          | v. 节约          |
+| 53  | ==stint==      | v. 节约          |
 | 54  | impoverished   | 贫穷的            |
 | 55  | scuffle        | v. 扭打，冲突       |
 | 56  | premonitory    | 先兆的，预兆的        |
@@ -67,5 +67,5 @@
 | 64  | all-important  | 非常重要的          |
 | 65  | minuscule      | 极小的            |
 | 66  | gut            | v. 取出内脏，取出基本内容 |
-| 67  | solicitous     | 关怀的，操心的        |
+| 67  | ==solicitous== | 关怀的，操心的        |
 | 68  | trendy         | 时髦的，流行的        |

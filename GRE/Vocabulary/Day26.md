@@ -42,7 +42,7 @@
 | 39  | nexus            | 连接，联系          |
 | 40  | derogate         | 贬低，诽谤          |
 | 41  | archaic          | 古老的            |
-| 42  | precocious       | 早熟的            |
+| 42  | ==precocious==   | 早熟的            |
 | 43  | fabricate        | 制造; 捏造         |
 | 44  | devious          | 不诚实的; 弯曲的      |
 | 45  | commensurate     | 相称的            |
@@ -54,7 +54,7 @@
 | 51  | clerical         | 职员的，牧师的        |
 | 52  | countenance      | v. 赞同          |
 | 53  | open-ended       | 开放式的           |
-| 54  | foment           | v. 煽动，挑起       |
+| 54  | ==foment==       | v. 煽动，挑起       |
 | 55  | pristine         | 原始的; 崭新的       |
 | 56  | hiatus           | n. 间隙          |
 | 57  | all-encompassing | adj. 包罗万象的     |
