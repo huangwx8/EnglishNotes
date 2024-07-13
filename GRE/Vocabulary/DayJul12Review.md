@@ -12,7 +12,7 @@
 | 9   | upsurge          | n. 急剧上升   |
 | 10  | prescient        | 有预知能力的    |
 | 11  | ==abominate==    | 憎恨        |
-| 12  | ==ecumenical==   | 普遍的，世界范围的 |
+| 12  | ==ecumenical==   | 普世的       |
 | 13  | provenance       | 起源        |
 | 14  | ==contrite==     | 后悔的       |
 | 15  | limpid           | 清晰的       |

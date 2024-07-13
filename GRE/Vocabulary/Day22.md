@@ -9,7 +9,7 @@
 | 6   | benign              | 和善的             |
 | 7   | enmity              | 敌意              |
 | 8   | crestfallen         | 不高兴的            |
-| 9   | clairvoyant         | 有洞察力的           |
+| 9   | ==clairvoyant==     | 有洞察力的           |
 | 10  | antidote            | 解药              |
 | 11  | magnify             | v. 赞美           |
 | 12  | self-knowing        | 有自知之明的          |

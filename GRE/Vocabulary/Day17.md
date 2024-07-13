@@ -42,7 +42,7 @@
 | 39  | prescient        | 有预知能力的       |
 | 40  | backhanded       | 间接的          |
 | 41  | ==abominate==    | 憎恨           |
-| 42  | ==ecumenical==   | 普遍的，世界范围的    |
+| 42  | ==ecumenical==   | 普世的          |
 | 43  | impeachable      | adj. 可控告的    |
 | 44  | insipid          | 枯燥乏味的        |
 | 45  | counterfeit      | 伪造           |

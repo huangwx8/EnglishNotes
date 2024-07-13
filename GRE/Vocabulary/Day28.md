@@ -40,7 +40,7 @@
 | 37  | portentous     | 先兆的; 不详预兆的    |
 | 38  | obdurate       | 固执的           |
 | 39  | ==quixotic==   | 不切实际的         |
-| 40  | apostle        | 狂热支持者         |
+| 40  | apostle        | 使徒            |
 | 41  | forgo          | 放弃            |
 | 42  | interlocutor   | n. 对话者        |
 | 43  | gut-level      | adj. 本能的      |
