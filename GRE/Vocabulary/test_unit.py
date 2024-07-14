@@ -19,6 +19,11 @@ if not f:
 
 f.readline()
 f.readline()
+f.readline()
+
+start_pos = f.tell()
+total_lines = len(f.readlines())
+f.seek(start_pos)
 
 peek = False
 
@@ -32,9 +37,12 @@ while True:
     tokens = line.split("|")
     if len(tokens) < 4:
         break
+    
+    No = tokens[1]
+    No = No.strip()
     word = tokens[2]
     trans = tokens[3]
-    print(word)
+    print("[%s/%d] %s"%(No, total_lines, word))
     inputline = input()
     if inputline == "p":
         peek = True
