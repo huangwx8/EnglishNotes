@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import sys
+import os
 
 n = len(sys.argv)
  
@@ -31,7 +32,6 @@ while True:
     oldNo = tokens[1]
     oldNo = oldNo.strip()
     try:
-        print(oldNo)
         if len(oldNo) != 0:
             oldNo = int(oldNo)
     except:
@@ -46,5 +46,9 @@ while True:
     
 f.close()
 wf.close()
+
+os.rename(wfilename, filename)
+
+print("%s has been numbered"%(filename))
 
 exit(0)
