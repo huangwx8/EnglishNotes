@@ -20,3 +20,12 @@
 | 18  | monogamous    | 一夫一妻制的        |
 | 19  | ==endemic==   | 地方性的          |
 | 20  | perennial     | 持久的           |
+| 21  | empirical     | 经验主义的         |
+| 22  | live up to    | 达到            |
+| 23  | spurn         | 拒绝            |
+| 24  | defect        | 缺陷            |
+| 25  | conform to    | 与...一致        |
+| 26  | obeisance     | 尊敬            |
+| 27  | fulminate     | 严厉谴责          |
+| 28  | pervalent     | 普遍的           |
+| 29  | contentious   | 引起争议的         |
