@@ -17,12 +17,16 @@ if not f:
     print("File %s does not exist"%(filename))
     exit(1)
 
-f.readline()
+# skip empty first line
+first_line = f.readline()
+if len(first_line) != 1:
+    f.seek(0)
+
 f.readline()
 f.readline()
 
 start_pos = f.tell()
-total_lines = len(f.readlines())
+num_total_lines = len(f.readlines())
 f.seek(start_pos)
 
 peek = False
@@ -42,7 +46,7 @@ while True:
     No = No.strip()
     word = tokens[2]
     trans = tokens[3]
-    print("[%s/%d] %s"%(No, total_lines, word))
+    print("[%s/%d] %s"%(No, num_total_lines, word))
     inputline = input()
     if inputline == "p":
         peek = True
