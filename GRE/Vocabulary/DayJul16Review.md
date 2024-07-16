@@ -29,3 +29,12 @@
 | 27  | circumstantial | 依情况而定的     |
 | 28  | augment        | v. 增加      |
 | 29  | stem           | v. 阻止      |
+| 30  | contented      | adj. 满足的   |
+| 31  | shun           | 避免         |
+| 32  | ludicrous      | 荒唐可笑的      |
+| 33  | porous         | 能渗透的       |
+| 34  | stasis         | 停滞         |
+| 35  | tenacity       | 顽强         |
+| 36  | contemptuous   | 轻蔑的        |
+| 37  | acute          | 敏锐的        |
+| 38  | proprietary    | 专有的；专利的    |
