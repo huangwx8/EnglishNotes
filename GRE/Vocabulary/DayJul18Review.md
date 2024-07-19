@@ -35,3 +35,9 @@
 | 33  | proclaim         | 表明           |
 | 34  | ==digress==      | 离题，转移话题      |
 | 35  | ==prophylactic== | 预防的          |
+| 36  | derivative       | 非原创的         |
+| 37  | cede to          | 让与           |
+| 38  | kindred          | 同类的，相似的      |
+| 39  | dramatic         | 剧烈的；引人注目的    |
+| 40  | peculiar         | 奇怪的          |
+|     |                  |              |
