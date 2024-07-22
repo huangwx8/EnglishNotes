@@ -29,3 +29,19 @@
 | 27  | ==elegiac==    | 哀悼的          |
 | 28  | overt          | adj. 公开的     |
 | 29  | ==brackish==   | 令人恶心的        |
+| 30  | materialize    | 显现，实现        |
+| 31  | incorporate    | 纳入，合并        |
+| 32  | mercurial      | 变化无常的        |
+| 33  | fastidious     | 挑剔的          |
+| 34  | distinctive    | 特别的          |
+| 35  | bridle         | 抑制           |
+| 36  | query          | 质疑           |
+| 37  | pragmatic      | 务实的          |
+| 38  | exhaustive     | 全面的          |
+| 39  | egalitarian    | 平等主义的        |
+| 40  | ritualize      | 使程式化         |
+| 41  | heterogeneous  | 各种各样的        |
+| 42  | put to rest    | 排除           |
+| 43  | breathtaking   | 令人激动的        |
+| 44  | keen           | 热切的; 灵敏的     |
+| 45  | dispute        | 争吵; 质疑       |
