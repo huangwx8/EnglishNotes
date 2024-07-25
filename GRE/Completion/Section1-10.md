@@ -24,3 +24,16 @@
 20. B,F
     cordiality n. 热诚
     reserve(s) n. 保守，矜持
+21. D
+22. B
+23. B, F
+24. B, F
+25. C, D, I
+    discredit v. 质疑
+26. C, E, H
+27. D, F
+28. A, D
+    rodent 啮齿类
+29. C, E
+    timelessness 无尽
+30. B, E
