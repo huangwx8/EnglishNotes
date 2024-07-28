@@ -35,18 +35,3 @@
 | 33  | proclaim         | 表明            |
 | 34  | ==digress==      | 离题，转移话题       |
 | 35  | ==prophylactic== | 预防的           |
-| 36  | derivative       | 非原创的          |
-| 37  | cede to          | 让与            |
-| 38  | kindred          | 同类的，相似的       |
-| 39  | dramatic         | 剧烈的；引人注目的     |
-| 40  | peculiar         | 奇怪的           |
-| 41  | contract         | 收缩; 合同; 感染    |
-| 42  | extravagant      | 奢华的           |
-| 43  | recoil           | 畏缩，后退         |
-| 44  | apathetic        | 冷漠的           |
-| 45  | snobbish         | 势利的           |
-| 46  | discrepancy      | 矛盾            |
-| 47  | ring true        | 听来真实          |
-| 48  | posture          | n. 态度; v. 摆姿态 |
-| 49  | square with      | 与一致           |
-| 50  | given            | 特定的           |

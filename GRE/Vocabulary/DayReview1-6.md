@@ -38,20 +38,3 @@
 | 36  | quaff            | 痛饮             |
 | 37  | objurgation      | 斥责，责备          |
 | 38  | grave            | 严肃的            |
-| 39  | affluent         | 丰富的            |
-| 40  | noxious          | 有害的，有毒的        |
-| 41  | ensue            | 随即发生           |
-| 42  | reserved         | 保守的，话少的，预留的    |
-| 43  | at a premium     | 非常珍贵的          |
-| 44  | peer             | 同龄人，凝视         |
-| 45  | unwarranted      | 不合理的，无根据的      |
-| 46  | patent           | 显而易见的          |
-| 47  | pressing         | 紧迫的，重要的        |
-| 48  | deride           | 鄙视             |
-| 49  | keep abreast of  | 了解...的最新情况     |
-| 50  | nostalgia        | 怀旧，思乡          |
-| 51  | radical          | 根本的，基本的，激进的    |
-| 52  | tractable        | 驯服的，温顺的        |
-| 53  | easygoing        | 悠闲地            |
-| 54  | antagonistic     | 敌对的            |
-| 55  | at odds with     | 与...矛盾         |

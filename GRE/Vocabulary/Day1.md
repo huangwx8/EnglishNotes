@@ -48,5 +48,5 @@
 | 45  | encroach           | 侵占        |
 | 46  | ennoble            | 使高尚       |
 | 47  | ==blandish==       | 奉承，哄骗     |
-| 48  | stagger            | 蹒跚，使迷惑    |
+| 48  | stagger            | 蹒跚，使震惊    |
 | 49  | ooze               | 渗出，泄露     |

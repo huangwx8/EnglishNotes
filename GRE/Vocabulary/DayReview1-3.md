@@ -4,7 +4,7 @@
 | 2   | indecorous          | 不合礼节的            |
 | 3   | renegade            | 叛徒               |
 | 4   | ==blandish==        | 奉承，哄骗            |
-| 5   | stagger             | 蹒跚，使迷惑           |
+| 5   | stagger             | 蹒跚，使震惊           |
 | 6   |  ==contumacious==   |  反抗权威的           |
 | 7   |  ==coruscate==      |  闪烁              |
 | 8   |  ==callow==         |  不成熟的            |
@@ -31,14 +31,3 @@
 | 29  | spearhead           | 先锋部队             |
 | 30  | sensational         | 耸人听闻的; 极好的       |
 | 31  | redoubtable         | 令人敬畏的            |
-| 32  | precede             | 先于; 在…之前发生       |
-| 33  | slumberous          | 昏睡的              |
-| 34  | secure              | 获得               |
-| 35  | haphazard           | 随意的              |
-| 36  | gauge               | 估计，判断            |
-| 37  | favorable           | 赞同的; 有利的         |
-| 38  | conjecture          | 推测               |
-| 39  | stave off           | 延缓               |
-| 40  | disinclination      | 不情愿              |
-| 41  | analytical          | 善于分析的，冷静客观的      |
-| 42  | awe                 | 敬畏               |
