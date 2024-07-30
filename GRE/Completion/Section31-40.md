@@ -107,4 +107,32 @@
     overture 序曲
 80. ~~A, D~~ A, B
     包容的
-81. 
+81. A
+82. ~~C~~ A
+    politically charged subject matter 具有政治色彩的主题
+    polemical 有 强烈支持或反对 的意思
+83. ~~C, F~~ A, D
+    headway 进展
+84. B, E
+85. ~~A, F, G~~ C, E, H
+    fret 烦恼
+    resonate 有分量
+86. ~~A, D, I~~ A, F, I
+87. E, F
+88. ~~B, E~~ C, F
+89. ~~C, D~~ E, F
+90. C, F
+91. ~~A~~ E
+92. A
+93. A, E
+94. A, D
+    justified in suspecting 合理怀疑
+95. ~~A, E, H~~ C, E, H
+    fare v. 成功
+    pertain 适用，存在
+96. ~~C, F, I~~ B, E, G
+    blind alleys 死胡同
+97. ~~A, B~~ A, C
+98. ~~B, F~~ C, E
+99. A, B
+100. B, C
