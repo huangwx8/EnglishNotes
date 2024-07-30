@@ -106,7 +106,7 @@
 79. D, F
     overture 序曲
 80. ~~A, D~~ A, B
-    包容的
+    inclusive 包容的
 81. A
 82. ~~C~~ A
     politically charged subject matter 具有政治色彩的主题
