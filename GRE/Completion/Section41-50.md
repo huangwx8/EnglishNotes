@@ -82,3 +82,39 @@
 68. B, D
 69. ~~C, F~~ B, D
 70. C, D
+71. B
+72. A
+73. C, F
+74. ~~A, F~~ C, F
+    vivacity 活泼
+75. ~~C, F, I~~ C, F, G
+76. C, E, H
+77. B, E
+    thematic/thematically 主题的
+78. A, F
+79. A, D
+80. C, D
+81. ~~C~~ E
+    severed, past sense of sever
+82. B
+83. ~~A, F~~ A, D
+84. B, D
+85. C, E, I
+86. C, D, H
+87. E, F
+88. B, D
+89. C, F
+90. B, C
+91. ~~D~~ E
+    credibility 可靠性
+92. D
+93. C, F
+94. C, E
+95. C, F, I
+96. A, E, G
+    be faulted for 因...被指责
+97. C, D
+98. B, C
+99. A, E
+100. ~~D, E~~ B, E
+    lynx 猞狸
