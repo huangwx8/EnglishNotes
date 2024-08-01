@@ -54,3 +54,59 @@
 48. D, F
 49. E, F
 50. A, C
+51. E
+    prolixity 冗长
+52. C
+53. A, F
+54. C, D
+55. B, F, I
+56. A, F, I
+57. D, E
+58. A, F
+59. C, E
+60. D, F
+61. C
+62. C
+63. A, E
+64. B, F
+65. A, D, I
+    accordingly 因此
+66. A, E, I
+67. C, F
+68. A, C
+69. C, E
+70. B, C
+71. B
+72. D
+73. A, D
+74. A, F
+75. B, F, I
+76. B, F, G
+77. A, F
+78. ~~A, E~~ C, F
+79. ~~A, B~~ D, E
+80. A, E
+81. A
+    emulsify 乳化
+    disabuse 打消
+82. A
+83. B, D
+    obduracy 固执
+84. C, E
+85. A, F, I
+86. ~~A, E, I~~ B, E, I
+87. B, C
+88. C, E
+89. ~~A, B~~ C, F
+90. E, F
+91. D
+92. D
+93. C, D
+    recount 详细叙述
+94. B, D
+95. C, D, G
+96. B, E, G
+97. A, E
+98. A, F
+99. C, D
+100. C, F
