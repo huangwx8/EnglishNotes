@@ -86,3 +86,26 @@
 78. B, D
 79. B, C
 80. A, C
+81. B
+82. E
+83. A, D
+84. A, F
+85. C, D, I
+86. ~~A, D, H~~ C, D, H
+87. ~~D, F~~ A, B
+    inimitable 无法仿效的
+88. ~~D, E~~ A, E
+89. ~~D, E~~ C, F
+90. E, F
+91. A
+92. D
+93. A, D
+94. ~~C, F~~ C, E
+95. ~~B, F, H~~ C, F, H
+96. C, F, G
+97. B, C
+    retrograde 退步的
+    hobble 跛行，束缚...的腿
+98. A, D
+99. A, B
+100. B, F
