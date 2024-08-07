@@ -61,3 +61,51 @@
 58. D, E
 59. C, D
 60. A, B
+61. ~~B~~ D
+    fluid adj. 流动的
+62. ~~D~~ B
+    reticence 沉默
+63. C, E
+64. A, D
+65. A, F, G
+66. ~~C, F, G~~ B, F, G
+67. C, E
+68. C, E
+69. C, E
+70. D, F
+71. C
+72. A
+73. A, F
+74. A, D
+    especially those insistent on a literal translation for whom no rendering is ever faithful enough.
+    for whom 对应 those，和 insistent on 同为状语从句
+75. C, D
+76. A, D, G
+77. C, D
+78. C, F
+    perceptive 有洞察力的
+    discerning 有洞察力的
+79. C, F
+80. C, E
+81. C
+82. D
+83. ~~C, E~~ C, F
+84. ~~A, D~~ C, D
+85. ~~B, D~~ B, F
+86. B, D, G
+87. ~~A, D~~ A, F
+88. C, E
+    admonishment 训诫
+89. A, D
+    propensity 习性
+90. B, D
+91. C
+92. C
+93. C, F
+94. ~~C, E~~ B, F
+95. C, D
+96. ~~B, F, I~~ B, D, I
+97. ~~A, D~~ E, F
+98. C, E
+99. C, D
+100. A, D
