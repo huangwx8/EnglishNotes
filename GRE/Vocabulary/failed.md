@@ -104,3 +104,103 @@
 | 56  | premonitory    | 先兆的，预兆的        |
 | 12  | restive        | 躁动不安的         |
 | 24  | errant         | 不定的; 行为错误的    |
+| 22  | ==petrify==     | 使惊呆               |
+| 39  | ==neophyte==    | 新手                |
+| 42  | misanthrope     | 愤世嫉俗者             |
+| 43  | fortuitous      | 偶然的               |
+| 44  | ==ebullient==   | 热情洋溢的             |
+| 50  | ==hoary==       | 古老的，陈腐的           |
+| 52  | ==jargon==      | 行话，术语             |
+| 55  | ==tyro==        | 新手                |
+| 2   | factious         | 宗派的，派系的    |
+| 4   | ==supercilious== | 傲慢的        |
+| 25  | adjourn          | 延期         |
+| 29  | pertinacious     | 顽固的        |
+| 30  | proscribe        | 禁止         |
+| 32  | hubris           | 傲慢自大       |
+| 42  | indiscernible    | 难以理解的      |
+| 9   | sensuous          | 感官的，愉悦感官的        |
+| 10  | ==erudite==       | 博学的              |
+| 11  | ==presumptuous==  | 放肆的，冒昧的          |
+| 14  | ==corollary==     | 推论，结果            |
+| 26  | cataclysm         | 灾难               |
+| 28  | ==adhoc==         | 临时的; 特别的         |
+| 29  | ==peripatetic==   | 巡回的              |
+| 41  | ==gloat==         | 幸灾乐祸             |
+| 48  | ==collude==       | 串通               |
+| 55  | ==rapprochement== | 和解               |
+| 14  | histrionic      | 戏剧化的，夸张的   |
+| 15  | listless        | 倦怠的，无精打采的  |
+| 16  | genealogy       | 家谱，宗谱      |
+| 17  | spate           | 大量         |
+| 25  | fervid          | 热心的，热情的    |
+| 29  | vociferous      | 喧闹的        |
+| 30  | obloquy         | 诽谤; 耻辱     |
+| 32  | obeisance       | 尊敬         |
+| 37  | obtrude         | 强加，强迫      |
+| 41  | capricious      | 变化无常的      |
+| 11  | encomium        | 赞美               |
+| 12  | fashion         | 使成形，制作           |
+| 14  | ==chicanery==   | 欺骗               |
+| 15  | garish          | 过分花哨的            |
+| 19  | minutia         | 琐事，细节            |
+| 20  | virulent        | 剧毒的; 恶意的         |
+| 28  | cognizant       | 有意识的             |
+| 43  | nonplus         | 使迷惑              |
+| 46  | ==hortatory==   | 劝告的              |
+| 6   | languish         | v. 失去活力; v. 被忽视 |
+| 22  | autocrat         | 独裁者             |
+| 43  | ==gaffe==        | n. 失礼           |
+| 6   | ==revile==       | v. 辱骂        |
+| 9   | ==heinous==      | 十恶不赦的        |
+| 11  | ==taciturn==     | 沉默寡言的        |
+| 17  | amenable         | 愿意的，服从的      |
+| 20  | instrumental     | 有帮助的         |
+| 21  | vested           | 既定的，既得的      |
+| 22  | ==inure==        | 使习惯          |
+| 38  | expedite         | v. 加快        |
+| 39  | prescient        | 有预知能力的       |
+| 41  | ==abominate==    | 憎恨           |
+| 44  | insipid          | 枯燥乏味的        |
+| 47  | handicap         | n. 障碍 v. 阻碍  |
+| 54  | prerogative      | 特权           |
+| 56  | stemma           | 家谱           |
+| 64  | ==apocryphal==   | 虚假的          |
+| 26  | flair          | 天资，天分              |
+| 27  | sever          | 割断，断绝              |
+| 29  | ==assiduous==  | 努力的                |
+| 33  | munificent     | 慷慨的，大方的            |
+| 34  | abrogate       | 废除，取消              |
+| 46  | reparation     | 赔偿                 |
+| 56  | sectarian      | 教派的; 狭隘的           |
+| 57  | pique          | v. 激怒，刺激           |
+| 60  | buoy           | 使振奋                |
+| 61  | recondite      | 晦涩难懂的              |
+| 64  | ==abash==      | v. 使羞愧，使窘迫         |
+| 2   | ==amorphous==   | 无固定形状的; 难归类的         |
+| 9   | ==baroque==     | 奢华的，复杂的              |
+| 10  | ==opprobrium==  | 谴责; 耻辱               |
+| 15  | ==rapacious==   | 贪婪的                  |
+| 17  | usher           | 引导，招待                |
+| 22  | ==slipshod==    | 马虎的，草率的              |
+| 30  | ==audacious==   | 大胆的                  |
+| 41  | disconcert      | 使迷惑，使不安              |
+| 42  | ==flout==       | 公然藐视                 |
+| 49  | demur           | 表示反对                 |
+| 50  | ==propitious==  | 吉利的                  |
+| 55  | ==ascetic==     | 苦行的，禁欲主义的            |
+| 56  | allege          | 断言                   |
+| 57  | abstruse        | 难理解的                 |
+| 2   | penitent         | 忏悔的       |
+| 3   | annal            | 记录，编年史    |
+| 4   | ==lethargic==    | 无精打采的     |
+| 10  | ==stingy==       | 吝啬的       |
+| 16  | draconian        | 严苛的       |
+| 26  | objurgation      | 斥责，责备     |
+| 27  | palpable         | 明显的，可感知的  |
+| 29  | ==toady==        | v. 谄媚     |
+| 33  | rhetorical       | 夸张的       |
+| 42  | ==meretricious== | 华而不实的     |
+| 51  | apology          | 辩护        |
+| 54  | emendation       | 修订        |
+| 60  | ==impertinent==  | 不礼貌的      |
