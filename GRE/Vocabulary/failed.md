@@ -212,3 +212,47 @@
 | 37  | impudent          | 放肆无礼的           |
 | 38  | quench            | 结束，终结           |
 | 55  | impermanent       | 短暂的             |
+| 48  | ==pandemonium==   | 混乱              |
+| 56  | ==deleterious==   | 有害的，有毒的         |
+| 21  | ==truculent==     | 好斗的             |
+| 24  | ==mawkish==       | 多愁善感的           |
+| 3   | ==jockey==        | 欺骗              |
+| 15  | ==jubilation==    | 欣喜              |
+| 17  | ==hallow==        | 崇敬              |
+| 19  | ==off-putting==   | 令人不愉快的，令人讨厌的    |
+| 30  | risible           | 可笑的             |
+| 33  | ==fulminate==     | 严厉谴责            |
+| 47  | immaterial        | 不重要的            |
+| 2   | ==ameliorate==    | 改善              |
+| 4   | ==contingent==    | 取决于             |
+| 7   | grandiloquent     | 夸张的             |
+| 22  | ==obstreperous==  | 吵闹的; 难驾驭的       |
+| 26  | ==mollify==       | 平息，抚慰           |
+| 56  | ==admonish==      | 批评; 告诫          |
+| 3   | amiss             | 错误的             |
+| 18  | coy               | 腼腆的             |
+| 22  | ==antediluvian==  | 过时的             |
+| 35  | equanimity        | 平静              |
+| 37  | ==desultory==     | 散漫的，不连贯的        |
+| 41  | ==esoteric==      | 深奥难懂的           |
+| 45  | ==categorical==   | 绝对的，坚定的         |
+| 49  | ==aspersion==     | 诽谤              |
+| 4   | ==vitriolic==     | 尖酸刻薄的           |
+| 7   | ==spunk==         | 勇气, 胆量          |
+| 27  | ==excoriate==     | 严厉指责            |
+| 31  | ==ordain==        | 规定，颁布命令         |
+| 13  | commandeer        | 征用，强占           |
+| 16  | conscientious     | 认真的             |
+| 20  | ==irenic==        | 和平主义的           |
+| 30  | gullible          | 易受骗的，轻信的        |
+| 32  | ==row==           | 争吵              |
+| 48  | ==agglomerate==   | 聚集              |
+| 59  | ==imperious==     | 专横的             |
+| 60  | ==rile==          | 激怒              |
+| 4   | allure            | v. 引诱; n. 魅力    |
+| 25  | ==panache==       | n. 炫耀           |
+| 31  | ==hereabouts==    | adv. 在附近        |
+| 45  | ==digress==       | 离题，转移话题         |
+| 48  | ==enthrall==      | 使着迷             |
+| 59  | ==fawn==          | 奉承              |
+| 62  | counterproductive | 事与愿违的           |

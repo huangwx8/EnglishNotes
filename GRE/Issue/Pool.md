@@ -1,4 +1,4 @@
-1. 1.As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate.
+1. As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate.
    depends on the specific roles
    software engineers
    people who do not have the opportunities to think creatively and critically
@@ -98,7 +98,105 @@
     welfare cannot serve as a reliable indicator. Maybe the nation is endowed with rich natural resources, or by plundering other countries.
     exceptional leaders in the fields of politics, art and science had achieved great works that can benefit not just their compatriots but the people all over the world.
 29. The best way to teach—whether as an educator, employer, or parent—is to praise positive actions and ignore negative ones.
+    children and employees as the positive reinforcement will lead to repetition of more desirable behaviours. 
+    While some people may emphasise the importance of correcting mistakes, I believe that incorrect actions will be gradually replaced by correct actions which receive positive feedback.
 30. Teachers' salaries should be based on their students' academic performance.
     prevent the students from developing in a well-rounded manner
     prevent the students from learning knowledge
     opposition: incentives, unfair due to background difference. students’ academic performance is affected by multiple factors
+31. Society should make efforts to save endangered species only if the potential extinction of those species is the result of human activities.
+    If this criterion were adopted as part of the policy, the government agencies and the scientists would have a hard time to decide whether or not the potential extinction of certain species is due to human activities or not.
+    Some species have great potential to produce substance with important pharmaceutical and other scientific value and should be preserved with great efforts.
+    another reason against the proposed policy is that new technologies have made it possible for scientists to build a gene bank to preserve all the endangered species in a rather inexpensive way.
+32. College students should base their choice of a field of study on the availability of jobs in that field.
+33. As we acquire more knowledge, things do not become more comprehensible, but more complex and mysterious.
+    depend on which groups of people we are talking about here. 
+    For the general public, science has provided solutions and resolved puzzles, enabled us to understand events in the world with confidence. (germ, relativity)
+    For the scientific researchers, however, science is far less certain and settled, creating more complex puzzles than anyone can possibly solve completely. (financial crisis)
+34. In any situation, progress requires discussion among people who have contrasting points of view.
+    In diplomatic field, governments of different counties usually have different opinions. Negotiation is necessary to reach the final settlement.
+    In political field, we can hear voices from different social classes. Only hearing working class results in populism, while only hearing elite class causes autocracy.
+    In scientific field, especially fields such as physics and social science, arguments is never rare since our observation is vague and hard to understand. Fierce collision between contrasting minds leads to scientific progress.
+35. Educational institutions should dissuade students from pursuing fields of study in which they are unlikely to succeed.
+36. Governments should not fund any scientific research whose consequences are unclear.
+	For those projects that may lead to commercial applications or ethical crisis, the government should not spend taxpayers’ money on them. (driverless cars, clone)
+	But for those theoretical research projects with no clear practical value, government support is essential. (theoretical physics)
+37. Society should identify those children who have special talents and provide training for them at an early age to develop their talents.
+    In mathematics and science, society can identify those children who have special talents by competitions and should provide them with special training because the children may contribute to the fields greatly. (benefits humanity)
+    Nevertheless, for children talented in sports, it is ethically problematic to identify and train them at an early age. (against their wills, very few eventually win medals)
+38. It is primarily through our identification with social groups that we define ourselves.
+    agree that we need to participate in different social communities in order to construct our identities, interacting with our parents, partners and children in private relationships is also an essential aspect of our identities.
+    nationality or citizenship (language, culture, political activities)
+    institutions, specifically universities (educational experiences)
+    parents, our partners and our children (emotional joy, express ourselves liberally)
+39. College students should be encouraged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs.
+40. Claim: When planning courses, educators should take into account the interests and suggestions of their students. Reason: Students are more motivated to learn when they are interested in what they are studying.
+41. The greatness of individuals can be decided only by those who live after them, not by their contemporaries.
+	Agree, political leaders, writers (contemporaries are usually partial, long-term implication)
+	Disagree, scientists and athletes (well defined criteria can be applied on sports events and scientific achievements)
+42. Students should always question what they are taught instead of accepting it passively.
+    accepted facts and theories should not be questioned (verified scientifically)
+    values and ideologies should be questioned (propaganda and brainwash)
+43. The increasingly rapid pace of life today causes more problems than it solves.
+    rapid pace: traffic, communication, police and hospital
+    shortcoming: health and psychological problems
+    argue: vacations, exercise
+44. Claim: It is no longer possible for a society to regard any living man or woman as a hero.
+    Reason: The reputation of anyone who is subjected to media scrutiny will eventually be diminished.
+    entertainment and sports: young, talented and wealthy, temptations, scandals.
+    politics: political enemies.
+    science: benefits the public
+    fame and wealth accompanied by attention and attacks, unavoidable.
+45. Competition for high grades seriously limits the quality of learning at all levels of education.
+    In elementary schools, should spend more time playing and experimenting with different ideas and objects in order to cultivate creativity rather than memorizing and practicing for exams
+	In universities, need to develop skills and techniques that are important in the real world, where people often collaborate in teams rather than work individually.
+    In middle schools, students have to demonstrate their academic potential through strong performance in their high schools.
+46. Universities should require every student to take a variety of courses outside the student's field of study.
+47. Educators should find out what students want included in the curriculum and then offer it to them.
+48. Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts.
+    depends on the reasons why the facts have to be taught in the particular educational contexts as well as the learning abilities of the students.
+    solve problems: fact itself is very useful, no need to explain. (Pythagorean theorem)
+    immature students: incapable of understanding ideas.
+    contentious social and political problems: develop more balanced view.
+49. Claim: We can usually learn much more from people whose views we share than from those whose views contradict our own. Reason: Disagreement can cause stress and inhibit learning.
+    we can learn more from those holding different views as long as our relationships enable us to discuss and exchange viewpoints in a rational and equal manner. (colleagues and classmates)
+    both the claim and the reason hold true when we could not stay calm and reasonable, e.g. fighting with spouses or political rivals.
+50. Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people they serve.
+51. Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.
+    depends on the careers they plan to pursue.
+    entertainment and sports: short career lifespan, demands for resources (being famous).
+    academic research: long time to acquire basic knowledge, significant efforts to make breakthrough.
+    politics: meet more people from diverse age groups and classes.
+52. The best way to teach is to praise positive actions and ignore negative ones.
+53. If a goal is worthy, then any means taken to attain it are justifiable.
+    cost too much (railway).
+    unjust in procedure (torture to extract information)
+    ethically problematic (user data privacy)
+54. In order to become well-rounded individuals, all college students should be required to take courses in which they read poetry, novels, mythology, and other types of imaginative literature.
+    expose issues that concern humanity as a whole.
+    foster creativity.
+    requirement provides incentives (internet temptations).
+    guidance and course design.
+55. In order for any work of art—for example, a film, a novel, a poem, or a song—to have merit, it must be understandable to most people.
+    cultural barriers (Journey to the west)
+	generation gap (Anime)
+	political factors (1984)
+56. Many important discoveries or creations are accidental: it is usually while seeking the answer to one question that we come across the answer to another.
+    discovery of New World (dramatic and rare).
+    knowledge are constructed in a systematic way (geology is complete nowadays).
+    research sponsor expect certain type of outcome.
+57. The main benefit of the study of history is to dispel the illusion that people living now are significantly different from people who lived in earlier times.
+    actually different (technology, political system, culture).
+    main benefit: do better in the modern world.
+    learn from mistake (World War II)
+58. Learning is primarily a matter of personal discipline; students cannot be motivated by school or college alone.
+    Primary school students: driven to learn by interest, explore fields.
+    Secondary school students: is personal discipline, but school is a strong force (incentives, competition).
+    College students: not only learning (cooperate, research), responsible for their own decisions.
+59. Scientists and other researchers should focus their research on areas that are likely to benefit the greatest number of people.
+    researchers in engineering: solve problems that bothers most people, maximize productivity (power grid, internet)
+    natural scientists: discover meaning of humanity (big bang theory), unpredictable potential (nuclear energy).
+    Social scientists: address problems of people who is the most needy.
+60. Politicians should pursue common ground and reasonable consensus rather than elusive ideals.
+    Mao Zedong: unrealistic political ideals (eliminate classes), Great Leap Forward, millions of people died from starvation during the three-year famine.
+    Deng Xiaoping: find a consensus - economic development.
