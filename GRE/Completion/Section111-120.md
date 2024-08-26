@@ -16,7 +16,7 @@
     not the least of which 尤其重要的
 16. C, E, G
 17. B, F
-18. ~~E, F~~ B, E
+18. ~~E, F~~ B, F
 19. B, E
 20. E, F
 21. B

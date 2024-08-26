@@ -19,4 +19,3 @@
 14. mutually exclusive = $p(A \cap B) = 0$ 
 15. independent = $p(A \cap B) = P(A)P(B)$ 
 16. replace 放回
-17. 
